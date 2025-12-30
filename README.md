@@ -53,7 +53,6 @@ rpm/
 
 
 ---
-
 ## ⚙️ Installation & Setup
 
 ### Backend Setup
@@ -66,13 +65,12 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
-
-
 ---
 
-## 
-### Frontend Setup
-```bash
+### Frontend
+- ReactJS
+- JSX
+
 cd frontend
 npm install
 npm start
