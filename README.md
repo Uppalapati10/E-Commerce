@@ -65,8 +65,10 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+---
 
-### Frontend Setup
+**### Frontend Setup**
+```bash
 cd frontend
 npm install
 npm start
