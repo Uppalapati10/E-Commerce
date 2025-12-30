@@ -70,8 +70,7 @@ python manage.py runserver
 
 ### Frontend
 ```bash
-- ReactJS
-- JSX
+
 
 cd frontend
 npm install
